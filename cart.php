@@ -10,6 +10,11 @@ include ('header.php');
         include ('Template/_cart-template.php');
     /*  include top sale section */
 
+        /*  include top sale section */
+        include ('Template/_wishilist_template.php');
+        /*  include top sale section */
+
+
     /*  include top sale section */
         include ('Template/_new-phones.php');
     /*  include top sale section */
