@@ -17,7 +17,12 @@
 
     <!-- Custom CSS file -->
     <link rel="stylesheet" href="style.css">
-
+<script>
+    alert ('welocome to our awesome shop');
+    let a=prompt ('please enter your name');
+    alert ('everything you can shop on your mobile ${a} welcome once again');
+    
+    </script>
     <?php
     // require functions.php file
     require ('functions.php');
